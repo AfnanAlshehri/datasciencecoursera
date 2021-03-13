@@ -2,7 +2,7 @@
 title: "HelloWorld"
 author: "Afnan Alshehri"
 date: "3/13/2021"
-output: html_document
+output: pdf_document
 ---
 
 ## This is a markdown file
